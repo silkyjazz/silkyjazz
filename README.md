@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-🌷 I am a recent graduate of the UC Berkeley Bootcamp and I am actively seeking new opportunities in the tech industry.
+🌷 I am a UC Berkeley Bootcamp Student and I am actively seeking new opportunities in the tech industry.
 
 ✨ My technical proficiencies include programming languages such as HTML, CSS and JavaScript. I also have experience working with popular frameworks like React, Express, and Node.js, as well as databases like MongoDB and MySQL.
 
