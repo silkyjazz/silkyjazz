@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello and welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 🌷 I am a recent graduate of the UC Berkeley Bootcamp and I am actively seeking new opportunities in the tech industry.
 
